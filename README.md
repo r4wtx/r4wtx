@@ -1,4 +1,4 @@
-<span algin="center">Hello niggas I am bang</span>
+<p algin="center">Hello niggas I am bang</p>
 <p align="center">
   <img src="https://empty-disk-0341.bang00net.workers.dev/bang_ghub_asset.png" width="208" height="43">
   &nbsp;&nbsp;
