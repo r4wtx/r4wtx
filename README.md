@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://empty-disk-0341.bang00net.workers.dev/bang_ghub_name.png" width="119" height="103">
+  <img src="https://empty-disk-0341.bang00net.workers.dev/bang_ghub_name.png" width="149" height="113">
 </p>
 <p align="center">
   <img src="https://empty-disk-0341.bang00net.workers.dev/bang_ghub_asset.png" width="208" height="43">
