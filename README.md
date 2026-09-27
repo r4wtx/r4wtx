@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**r4wtx/r4wtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<svg width="300" height="100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="30" cy="50" r="15">
+    <animate
+      attributeName="cx"
+      from="30"
+      to="270"
+      dur="2s"
+      repeatCount="indefinite"
+    />
+  </circle>
+</svg>
